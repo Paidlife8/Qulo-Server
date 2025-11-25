@@ -603,7 +603,7 @@ const welcomeMessage = ({ pin, password, accountNumber, userName }) => {
                                 <div>
                                   <img
                                     style="width: 90%; margin-bottom: 2rem"
-                                    src="https://res.cloudinary.com/dwrmw2fsn/image/upload/v1745850584/5_u7eakq.png"
+                                    src="https://www.qulocredit.com/_next/image?url=%2Fimg%2Flogo%2FQULO_CREDIT-removebg-preview.png&w=384&q=75"
                                     alt=""
                                   />
                                 </div>
